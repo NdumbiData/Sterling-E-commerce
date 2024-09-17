@@ -1,6 +1,6 @@
 My name is Ndumbi Kimani, and I am a data scientist. 
 
-This dashboard presents my first Dashboard Project for Sterling E-Commerce. 
+This dashboard presents a Dashboard Project for Sterling E-Commerce. 
 The project is aimed at optimizing operational workflows and extracting meaningful insights through comprehensive data analysis, 
 enabling informed and strategic decision-making.
 
